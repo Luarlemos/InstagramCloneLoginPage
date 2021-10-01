@@ -1,1 +1,1 @@
-# InstagramClone_LoginPage
+# InstagramCloneLoginPage
